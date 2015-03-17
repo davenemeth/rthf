@@ -1,0 +1,1 @@
+Vezeték nélküli szenzorrendszer kiépítése
